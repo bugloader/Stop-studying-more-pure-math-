@@ -2,6 +2,6 @@
 A open source Chinese language novel
 
 ```
-![alt text](https://github.com/bugloader/Stop-studying-more-pure-math-/src/img.jpg?raw=true)
+![alt text](https://github.com/bugloader/Stop-studying-more-pure-math-/tree/main/src/img.jpg?raw=true)
 ```
 
